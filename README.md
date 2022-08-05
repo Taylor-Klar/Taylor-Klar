@@ -34,25 +34,25 @@ Fast Facts:
 
 <br>
 <h2>Let's Connect!</h2>
-<a href="https://twitter.com/KlarCodes"><img align="left" alt="Klar Codes | Twitter" width="35px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/twitter.svg" />
+<a href="https://twitter.com/KlarCodes"><img align="left" alt="Klar Codes | Twitter" height ="40px" src="https://github.com/Taylor-Klar/images/blob/main/Images/Twitter.png"/>
 </a>
 
-<a href="https://www.linkedin.com/in/taylordaneeklar/"><img align="left" alt="Taylor Klar | LinkedIn" width ="35px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/taylordaneeklar/"><img align="left" alt="Taylor Klar | LinkedIn" height ="40px" src="https://github.com/Taylor-Klar/images/blob/main/Images/LinkedIn.png"/>
 </a>
 </br>
 
 <br>
 <br>
 <h2>Languages & Tools</h2>
-<code><img align="center" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></ code>
-<code><img align="center" alt="HTML5" height="42px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></ code>
-<code><img align="center" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img align="center" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></ code>
-<code><img align="center" alt="React" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></ code>
-<code><img align="center" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></ code>
-<code><img align="center" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></ code>
-<code><img align="center" alt="GitHub" height="42px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></ code>
-<code><img align="center" alt="mongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></ code>
+<a href="#"><img align="center" alt="Visual Studio Code" height="42px" src="https://github.com/Taylor-Klar/images/blob/main/Images/Visual%20Studio%20Code.png"></a>
+<a href="#"><img align="center" alt="HTML5" height="42px" src="https://github.com/Taylor-Klar/images/blob/main/Images/HTML5.png"></a>
+<a href ="#"><img align="center" alt="CSS3" height="42px" src="https://github.com/Taylor-Klar/images/blob/main/Images/CSS3.png"></a>
+<a href="#"><img align="center" alt="JavaScript" height="42px" src="https://github.com/Taylor-Klar/images/blob/main/Images/JavaScript.png"></a>
+<a href="#"><img align="center" alt="React" height="42px" src="https://github.com/Taylor-Klar/images/blob/main/Images/React.png"></a>
+<a href="#"><img align="center" alt="Node.js" height="42px" src="https://github.com/Taylor-Klar/images/blob/main/Images/Node.js.png"></a>
+<a href="#"><img align="center" alt="Git" height="42px" src="https://github.com/Taylor-Klar/images/blob/main/Images/Git.png"></a>
+<a href="#"><img align="center" alt="GitHub" height="45px" src="https://github.com/Taylor-Klar/images/blob/main/Images/GitHub.png"></a>
+<a href="#"><img align="center" alt="mongoDB" height="42px" src="https://github.com/Taylor-Klar/images/blob/main/Images/MongoDB.png"></a>
 
 <!---
 Taylor-Klar/Taylor-Klar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
