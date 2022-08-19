@@ -4,7 +4,7 @@
 <h1>Hello, I'm Taylor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></h1>
 <em>pronouns: she/her/hers</em>
 
-<img align="right" alt="Taylor Klar | GIF" src="https://github.com/Taylor-Klar/images/blob/main/Images/TaylorKlar.GIF.gif" width="500" height="320" />
+<img align="right" alt="Taylor Klar | GIF" src="https://media.giphy.com/media/PxV7yd7G5p9BCH6U3a/giphy.gif" width="500" height="320" />
 
 <br>
 Fast Facts:
